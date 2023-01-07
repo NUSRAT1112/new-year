@@ -1,0 +1,183 @@
+#mainBannerSection {
+  background-image: url("../images/319123634_566569944975421_1531632442296876841_n.png");
+  background-size: cover;
+  background-color: #cccccc;
+  height: 500px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bannerContent {
+  text-align: right;
+  padding: 8rem;
+}
+
+.previousYear {
+  display: inline-block;
+  display: flex;
+  padding: 3rem;
+}
+
+.previousYearLeft img {
+  width: 50%;
+  text-align: center;
+  float: right;
+}
+
+.myPlaneHeader {
+  text-align: center;
+  font-weight: bolder;
+  font-size: 30px;
+}
+
+.myPlaneItems {
+  display: flex;
+  justify-content: space-evenly;
+  text-align: center;
+}
+.motivationMain {
+  background-image: url("../images/324218936_885987125861547_940305962732129486_n.png");
+  background-size: cover;
+  background-color: #cccccc;
+  height: 200px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.motivationSub {
+  background-image: url("../images/324222150_681656510111788_6165142114329189409_n.png");
+  background-size: cover;
+  background-color: #cccccc;
+  height: 200px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 80%;
+}
+
+#motivationSection {
+  width: 70%;
+  margin: 0 auto;
+  padding: 5rem;
+}
+
+.footerSection {
+  height: 300px;
+  background: #141415;
+}
+
+.footerContainer {
+  display: flex;
+  justify-content: space-around;
+  color: #a4a4a4;
+  padding-top: 1rem;
+}
+
+.footerIcons img {
+  width: 10%;
+  padding: 2px;
+}
+
+input {
+  padding: 10px;
+  background: bottom;
+  color: white;
+  border-radius: 10px;
+}
+
+button {
+  padding: 10px 25px;
+  border: none;
+  border-radius: 5px;
+  font-weight: bold;
+}
+.subscribeButton {
+  margin-top: 10px;
+  background: #005fac;
+  color: #a4a4a4;
+}
+
+.footerRight h2 {
+  font-weight: bold;
+}
+
+.motivSectionContent {
+  padding: 10px 0px 0px 25px;
+  color: #f5f5f5;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.motivButton {
+  color: #005fac;
+}
+
+.myPlaneItem img {
+  width: 50%;
+}
+
+.bannerContent h1 {
+  font-weight: bold;
+  font-size: 30px !important;
+}
+.bannerContent p {
+  font-size: 18px !important;
+}
+
+.bannerContent button {
+  background: #bf542f;
+  color: white;
+}
+
+li {
+  /* font-size: 30px; */
+  list-style-type: none;
+  background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiID8+PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEuMSIgd2lkdGg9IjIwIiBoZWlnaHQ9IjIwIiB2aWV3Qm94PSIwIDAgMjAgMjAiPjxwYXRoIGQ9Ik0wIDAgMjAgMTAgMCAyMFoiIGZpbGw9IiNhYWEiLz48L3N2Zz4=)
+    no-repeat left top;
+  padding: 0px 0 3px 24px;
+}
+
+.previousYearContent,
+.previousYearHeading {
+  padding: 0 0 0 38px;
+}
+
+.contactUsSection {
+  background: #189f76;
+  height: 300px;
+  margin-bottom: 45px;
+}
+
+.contactInput {
+  display: flex;
+  justify-content: space-around;
+}
+
+.contactInput input {
+  width: 25%;
+  color: #141415 !important;
+}
+
+.contactHeading {
+  text-align: center;
+  padding-top: 20px;
+}
+
+textarea {
+  width: 91.5%;
+  padding: 10px;
+  margin-top: 10px;
+}
+
+.textareaSection {
+  text-align: center;
+}
+
+.contactButton {
+  padding: 10px 42px;
+}
+.contactButton button {
+  background: #dc7144;
+  color: white;
+}
